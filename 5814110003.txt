@@ -3,3 +3,6 @@ git status ตรวจสอบสถานะ
 git add เพิ่มไฟล์ repository
 git log ตรวจสอบการเปลี่ยนแปลง
 git commit ยืนยันการเปลี่ยนแปลง
+
+
+สวัสดีครับ
