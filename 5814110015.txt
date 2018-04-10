@@ -6,11 +6,11 @@
 
 How are you?
 
-<<<<<<< HEAD
 I'm fine thanks and you?
-=======
+
+
 
 
 
 Whare are you?
->>>>>>> d518ed04b3bd4a72813b555aef8900c9976b4dd0
+
